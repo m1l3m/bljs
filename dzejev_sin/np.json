@@ -1,0 +1,22 @@
+{
+"National Parks": [
+            {
+                "Id": "1",
+                "Name": "Sutjeska National Park",
+                "Description": "The Sutjeska National Park (Serbian Cyrillic: Национални парк Сутјеска) is a national park located in Bosnia and Herzegovina. Established in 1962, it is Bosnia and Herzegovina's oldest national park. It includes the highest peak of Maglić at over 2,386 metres (7,828 ft), on the border with Montenegro. The Montenegrin part of Maglić massif in the park has also formed the Trnovačko Jezero (Trnovačko Lake). The Strict Nature Reserve 'Perućica', one of the last two remaining primeval forests in Europe, is part of the park. The park is also famous as being the location of the Battle of the Sutjeska in 1943 during World War II. It is an affiliated member of EUROPARC Federation.",
+                "Image": "img/sutjeska.jpg"
+            },
+            {
+                "Id": "2",
+                "Name": "Kozara National Park",
+                "Description": "Kozara National Park (Serbian Cyrillic: Национални парк Козара) is a national park in Bosnia and Herzegovina that was proclaimed a protected national forest in 1967 by Josip Broz Tito. It is situated between the rivers Una, Sava, Sana and Vrbas, in the Republika Srpska entity of Bosnia and Herzegovina. These 33.75 square kilometers of dense forest and hilly meadows have earned the nickname 'Green Beauty of Krajina'. Kozara is a popular hunting ground, with a large 180 square kilometers area of the park open to regulated hunting of deer, pheasants, foxes, boars, hares, and ducks. A smaller part of the park is designated for nature lovers. Walking, hiking, biking and herb picking are among the many activities in Kozara.",
+                "Image": "img/kozara.jpg"
+            },
+            {
+                "Id": "3",
+                "Name": "Una National Park",
+                "Description": "Una National Park (Serbian Cyrillic: Национални парк Уна) was established on 29 May 2008 around the rivers Upper Una River, Krka and the Unac. It is Bosnia and Herzegovina's largest national park. The main purpose of the park is to protect the unspoiled Una river and its tributaries Krka and Unac, which run through it. Protection zone of the National Park is 198 km2 (76 sq mi), and stretches on the western side from the source of the Krka river and its course to the confluence with the Una on the state border of Bosnia and Herzegovina with Croatia from where park border follows the Una and state border to the town of Martin Brod and confluence with the Unac. On the eastern side border of the park goes from the entrance of the Unac River into its canyon, few kilometers downstream from town of Drvar, and follows the Unac and its canyon all the way to the confluence with the Una in town of Martin Brod. From there park border follows the Una on the right and state border between Bosnia and Herzegovina and Croatia on the left, until it reach a small town of Ripač, few kilometers upstream from town of Bihać.",
+                "Image": "img/una.jpg"
+            }
+        ]
+}

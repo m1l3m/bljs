@@ -1,0 +1,162 @@
+{
+    "Mountains": [{
+            "Id": "1",
+            "Name": "Treskavica",
+            "Description": "Treskavica (Serbian Cyrillic: Трескавица) is a mountain range in Bosnia and Herzegovina, situated in Trnovo municipality just south of city of Sarajevo. Mala Ćaba (Đokin Toranj) peak at 2088 m (6850 ft.), which makes Treskavica the tallest of all the mountains circling Sarajevo, and only some 300 m shorter than the tallest mountain in the country. On clear days with good weather, climbers can see far into the distance, up to Montenegro and the Adriatic Sea.",
+            "Image": "img/treskavica.jpg",
+            "Location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65383.75240136588!2d18.363280475103707!3d43.59444478026087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4758a43cc1c50019%3A0x3770b1cf3ea729d!2sTreskavica!5e0!3m2!1sen!2ses!4v1653763921518!5m2!1sen!2ses"
+        },
+        {
+            "Id": "2",
+            "Name": "Bjelasnica",
+            "Description": "Bjelasnica (Serbian Cyrillic: Бјелашница) is a mountain in central Bosnia and Herzegovina. It is to the southwest of Sarajevo, bordering Mount Igman. Bjelašnica's tallest peak, by which the mountain group got its name, rises to an elevation of 2,067 metres (6,781 ft). Other notable peaks are Krvavac (2,061 m (6,762 ft)), Mali Vlahinja (2,055 m (6,742 ft)), and Hranisava (1,964 m (6,444 ft)). The Bjelašnica range is bordered by the Rakitnica in the south, the Neretva in the west, Mount Igman in the north-east and Mount Ivan in the north-west. Only at 20 minutes distance of Sarajevo, it is a tourist attraction for hiking and skiing. \nBjelašnica was, in certain areas, the site of extensive combat during the 1992-95 Siege of Sarajevo and particular areas pose a high mine risk. There are numerous trails set up and maintained by local mountain clubs that lead to the bald peaks higher up. The mountain is also visited by mountain bikers and has become a base for some paragliders.",
+            "Image": "img/bjelasnica.jpg",
+            "Location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65383.75240136588!2d18.363280475103707!3d43.59444478026087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4758a43cc1c50019%3A0x3770b1cf3ea729d!2sTreskavica!5e0!3m2!1sen!2ses!4v1653763921518!5m2!1sen!2ses"
+
+
+        },
+        {
+            "Id": "3",
+            "Name": "Jahorina",
+            "Description": "Jahorina (Serbian Cyrillic: Јахорина) is a mountain in Bosnia and Herzegovina, located on the tripoint of the municipalities of Pale, Trnovo, Republika Srpska and Trnovo, Federation of Bosnia and Herzegovina. Part of the Dinaric Alps, it borders Mount Trebević and its highest peak Sjenište, has a summit elevation of 1,910 metres (6,270 ft), making it the second-highest of Sarajevo's mountains, after Bjelašnica at 2,067 m (6,781 ft). The Jahorina ski resort located on the mountain, hosted the women's alpine skiing events of the 1984 Winter Olympics.",
+            "Image": "img/jahorina.jpg",
+            "Location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65383.75240136588!2d18.363280475103707!3d43.59444478026087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4758a43cc1c50019%3A0x3770b1cf3ea729d!2sTreskavica!5e0!3m2!1sen!2ses!4v1653763921518!5m2!1sen!2ses"
+
+        },
+        {
+            "Id": "4",
+            "Name": "Vlasic",
+            "Description": "Vlasic (Serbian Cyrillic: Влашић) is a mountain in geographical center of Bosnia and Herzegovina. Its highest peak is Paljenik with an elevation of 1,933 m. It is famous for its pastures, cattle-breeding and cheese. It is closest to the town of Travnik, which it overlooks.The average winter temperature is 1 °C (29 °F) while the average summer temperature is 14.2 °C (60.8 °F). In the wintertime snowfall is abundant with an average snow coverage of up to 5 months in accumulation between 1.5 and 2.1 meters. The toponym is derived from vlasi, 'Vlachs', a transhumant people. Academics like Mark Vego believe that the Vlachs, remnant of the Roman Empire, brought one of the trademarks of Vlašić, the Vlašić cheese, in around 1000. It is originally made from fresh sheep milk, but also cow milk, and then left to ripen for two to three months. By perfecting the recipe, the Vlachs passed on the tradition to the cattle breeders from the surrounding mountains. Today, the cheese is produced throughout the area and is regarded one of the traditions of the region. In addition to the cheese, there are two other trademarks, the Tornjak dog and Pramenka sheep. The Tornjak is believed to have existed for more than a millennia, bred to guard from wolves and bears. Its etymology is connected to Neo-Latin torni acca, 'turn here'.",
+            "Image": "img/vlasic.jpg",
+            "Location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65383.75240136588!2d18.363280475103707!3d43.59444478026087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4758a43cc1c50019%3A0x3770b1cf3ea729d!2sTreskavica!5e0!3m2!1sen!2ses!4v1653763921518!5m2!1sen!2ses"
+
+        },
+        {
+            "Id": "5",
+            "Name": "Maglic",
+            "Description": "Maglić (Serbian Cyrillic: Маглић, pronounced) is transboundary mountain, on the border of Bosnia and Herzegovina and Montenegro. The highest peak is at an elevation of 2,388 metres (7,835 ft), and is located within Montenegro, however, its twin peak, the most visited of two, is also second highest at 2,386 metres (7,828 ft) which makes it the highest peak of Bosnia and Herzegovina.[3] The mountain is oriented in a northwest-southeast direction.\nMaglić is the highest mountain in Bosnia and Herzegovina. It is bounded by the river Sutjeska to the west, the Piva to the east-southeast and the Upper Drina to the north-northeast, with Vučevo plateau (1,862 metres (6,109 ft)) extending to the north. \nFoča city near the border with Montenegro is 20 kilometres (12 mi) away from the Maglić massif and the nearest town is Mratinje.[8] Karst limestone formations in the region of limestone plateau are the general geological setting in the south and southwest region. Maglić massif consists of two peaks namely, the Veliki Maglić (2,386 metres (7,828 ft)) on the Bosnia and Herzegovina side and the Crnogorski Maglić (2,388 metres (7,835 ft)) on the Montenegrin side, which is 2 metres (6 ft 7 in) higher. The Montenegrin part of Maglić massif has formed the Trnovačko Jezero (Trnovačko Lake), said to be 'one of the most beautiful of Montenegro.' This lake is a glacier lake at an elevation of 1,517 metres (4,977 ft), is 700 metres (2,300 ft) long and 400 metres (1,300 ft) wide set amidst a 'huge amphitheater of rocky peaks'.",
+            "Image": "img/maglic.jpg",
+            "Location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65383.75240136588!2d18.363280475103707!3d43.59444478026087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4758a43cc1c50019%3A0x3770b1cf3ea729d!2sTreskavica!5e0!3m2!1sen!2ses!4v1653763921518!5m2!1sen!2ses"
+
+        },
+        {
+            "Id": "6",
+            "Name": "Igman",
+            "Description": "Igman (Serbian Cyrillic: Игман, pronounced) is a mountain plateau in central Bosnia and Herzegovina. Geologically, Igman is part of the Dinaric Alps and formed largely of secondary and tertiary sedimentary rock, mostly Limestone. It is located southwest of Sarajevo, bordering the Bjelašnica range in the south and west, Hadžići and Ilidža in the north, and the river Željeznica in the east. Igman's highest point, Crni vrh, west of the Malo Polje road, at an altitude of 1,510 metres (4,954 feet), the homonym highest elevation on the east side of this road reaches an elevation of 1,502 metres (4,928 feet). Most of Igman is covered with mixed forest with local pastures (f.i.: Veliko Polje: Large Field, Malo Polje: Small Field). Igman was the location of the lowest recorded temperature in the region, -43 °C (-45 °F). Igman has been the site of extensive combat during the 1992-95 Siege of Sarajevo and certain areas, in particular the surroundings of former front lines, feature a high mine risk.\nDuring the 1984 Winter Olympics, Igman was, along with Jahorina and Bjelašnica, the location of the competition in the alpine and Nordic sports disciplines. Igman hosted primarily the Nordic disciplines; the Igman Olympic Jumps in the Malo Polje area were the site of the ski jumping events and also the ski jumping part of the Nordic combined events. Meanwhile, the Veliko Polje hosted the biathlon, cross-country skiing, and the cross-country skiing part of the Nordic combined event.[2] In preparation of the Games a road was constructed across the Igman plateau connecting Sarajevo through Hadžići to the Malo Polje, Veliko Polje and Babin Dol venues. There were numerous structures constructed on Igman at this time, although many stand destroyed or bear the scars of the 1992-1995 conflict. One of the most eye catching structures remains the Ski Jumping platform at Malo Polje",
+            "Image": "img/igman.jpg",
+            "Location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65383.75240136588!2d18.363280475103707!3d43.59444478026087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4758a43cc1c50019%3A0x3770b1cf3ea729d!2sTreskavica!5e0!3m2!1sen!2ses!4v1653763921518!5m2!1sen!2ses"
+
+        },
+        {
+            "Id": "7",
+            "Name": "Trebevic",
+            "Description": "Trebević (Serbian Cyrillic: Требевић) is a mountain in central Bosnia and Herzegovina, located to the southeast of Sarajevo, in the territory of East Sarajevo city, bordering Jahorina mountain. Trebević is 1,627 meters (5,338 ft) tall, making it the second shortest of the Sarajevo mountains. During the Middle Ages, Trebević was known as Zlatni Do. During the 1984 Winter Olympics Trebević, like the other Sarajevo mountains, was used for a number of Olympic events, such as bobsledding. Trebević today is important as a tourist destination for citizens of Sarajevo as Igman or Bjelašnica.[citation needed] Most of the land mines are now cleared from heavy fighting that took place in the early 1990s. There are a few hotels, mountaineering homes, and other such structures on Trebević and the immediate area. The mountain is very popular for family picnics, hiking, climbing, mountain biking and it has a downhill track for local and international skiing competitions. Trebević has been the main excursion site for Sarajevo citizens due to the favorable geographical position, climate and the beauty of the nature. The biological diversity is among the highest and it is extraordinary to find such a phenomenon near the heart of the big city.[citation needed] On 9 April 2014, Sarajevo Canton Assembly declared Trebević a protected area, in order to conserve and improve each element of the geographical and biological diversity. Trebević can be reached from Sarajevo by the Trebević Cable Car, which starts from the neighbourhood of Bistrik.",
+            "Image": "img/trebevic.jpg"
+        },
+        {
+            "Id": "8",
+            "Name": "Cvrsnica",
+            "Description": "Čvrsnica (Serbian Cyrillic: Чврсница) is a mountain in the Dinarides of Bosnia and Herzegovina, located in northern Herzegovina. Most of the mountain is located in the Herzegovina-Neretva Canton municipalities of Mostar and Jablanica, while the smaller part of the mountain, around 10% is located in the municipality of Posušje. The highest peak (Pločno) is 2228 metres. Čvrsnica is surrounded by the river Neretva from the east (20 km), its tributaries Doljanka (18 km) from the north and Drežanka (19.8 km) from the south, the Dugo Polje field (12 km) and Vran mountain from west. The mountain consists of several plateaus — Plasa and Muharnica on north, Mala Čvrsnica on south. There are more than ten summits above 2000 m (Pločno 2228 m, Veliki Jelinak 2179 m, Veliki Vilinac 2118 m, etc.), vertical cliffs (Pesti brdo, Mezica stijene, Strmenica ...). It also includes lakes of Blidinje, Crepulja and Crvenjak. The Diva Grabovica canyon (6.2 km) goes into the mountain.\nBio-life is characteristic of its three climate areas: conifers above 1200 m, plateau with grass and junipers; numerous endemic species (like Munika Pine). Čvrsnica is well known as a home of chamois.",
+            "Image": "img/cvrsnica.jpg",
+            "Location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65383.75240136588!2d18.363280475103707!3d43.59444478026087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4758a43cc1c50019%3A0x3770b1cf3ea729d!2sTreskavica!5e0!3m2!1sen!2ses!4v1653763921518!5m2!1sen!2ses"
+
+        }
+    ],
+    "Lakes": [{
+            "Id": "1",
+            "Name": "Jablanicko lake",
+            "Description": "Jablaničko lake (Serbian Cyrillic: Јабланичко језеро) is a large artificially formed lake on the Neretva river, right below Konjic where the Neretva expands into a wide valley. The river provided lot of fertile, agricultural land there, before the lake flooded most of it. The lake was created in 1953 after construction of[1] Jablanica Dam near Jablanica in central Bosnia and Herzegovina. The lake has an irregular elongated shape. Its width varies along its length. The lake is a popular vacation destination in Bosnia and Herzegovina. Swimming, boating, and especially fishing are popular activities on the lake. Many weekend cottages have been built along the shores of the lake. There are 13 types of fish in the lake's ecosystem. However, the lake suffered from poor management of water and fisheries. Without any scientific and management plans or research, local fisheries and angling management introduced, alien, non-indigenous or non-native species, either deliberately or accidentally, which did more harm and damage than good. As the Neretva has many endemic and fragile species of fish that are near extinction, introductions of this invasive species, Pike Perch (Stizostedion lucioperca L.), completely destroyed native endemic and highly endangered fish like Strugač (Leuciscus svallize svallize Heck. et Kn.) or (Squalius svallize) and Glavatica (Salmo marmoratus) (also known as Gonjavac)",
+            "Image": "img/jablanicko.jpg"
+        },
+        {
+            "Id": "2",
+            "Name": "Prokosko lake",
+            "Description": "Prokoško Lake (Cyrillic: Прокошко Језеро) is a lake of Bosnia and Herzegovina. It is located in the municipality of Fojnica and it is 1,670 metres (5,480 ft) above sea level. The lake is visited by 20,000 tourists each year.",
+            "Image": "img/prokosko.jpg",
+            "Location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65383.75240136588!2d18.363280475103707!3d43.59444478026087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4758a43cc1c50019%3A0x3770b1cf3ea729d!2sTreskavica!5e0!3m2!1sen!2ses!4v1653763921518!5m2!1sen!2ses"
+
+        },
+        {
+            "Id": "3",
+            "Name": "Ramsko lake",
+            "Description": "Ramsko lake (Bosnian: Ramsko jezero) is an artificial lake (reservoir), located in municipality of Prozor-Rama, in the vicinity of eponymous town, in Bosnia and Herzegovina. Lake is created with a construction of Rama dam in 1968, on the river Rama, and it serves as a reservoir to store Rama's waters used by Rama Hydroelectric Power Station. The temperature of the lake is around 7.5 °C (45.5 °F)",
+            "Image": "img/ramsko.jpg",
+            "Location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65383.75240136588!2d18.363280475103707!3d43.59444478026087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4758a43cc1c50019%3A0x3770b1cf3ea729d!2sTreskavica!5e0!3m2!1sen!2ses!4v1653763921518!5m2!1sen!2ses"
+
+        },
+        {
+            "Id": "4",
+            "Name": "Bilecko lake",
+            "Description": "Bileća Lake (Serbian: Билећко језеро) is an artificial lake located in the municipality of Bileća, in the entity of Republika Srpska, Bosnia and Herzegovina, its length forming part of the Montenegrin border thus a small part being within Montenegro. The manmade lake was created by building the Grančarevo Dam an arch dam across the Trebišnjica River, which was built in 1968. It lies in the upper and central part of Trebsinjica valley, 17 km from Trebinje town and is one of the largest lakes in Bosnia and Herzegovina.\nBileća Lake is a large man made lake on the Trebišnjica River, which was created in 1968. This is the only source of surface water in an area which is subject to extreme weather conditions in winter and also in summer. Čepelica is its small tributary in Bileća Rudine and is stated to be the best known subterranean river in Bosnia and Herzegovina. It lies in the Upper and central part of Trebsinjica valley 17 km from Trebinje is one of the largest lakes in the country.",
+            "Image": "img/bilecko.jpg",
+            "Location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65383.75240136588!2d18.363280475103707!3d43.59444478026087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4758a43cc1c50019%3A0x3770b1cf3ea729d!2sTreskavica!5e0!3m2!1sen!2ses!4v1653763921518!5m2!1sen!2ses"
+
+        }
+    ],
+    "Waterfalls": [{
+            "Id": "1",
+            "Name": "Kravice Waterfall",
+            "Description": "Kravica Waterfall (Serbian Cyrillic: Слап Кравица or Водопад Кравица) is a large tufa cascade on the Trebižat River, in the karstic heartland of Herzegovina in Bosnia and Herzegovina. It is 10 kilometres (6 mi) south of Ljubuški and 40 kilometres (25 mi) south of Mostar.[1] Its height is about 25 metres (80 ft) and the radius of the lake in the base of the waterfall is 120 metres (390 ft). Kravica is a popular swimming and picnic area and, during the summer, it is frequently visited by tourists. The Kravica Falls area also has a little cafe, a rope swing, a picnic area, and a place to camp. The best time of year for visiting is during the springtime when the fall is at its fullest and the arid landscape turns a bright green. During the high season, various restaurants in the vicinity of the waterfalls mostly offer grilled dishes and fish specialties. Near the Kravica Falls is also a small grotto with stalactites made of calcium carbonate, an old mill and a sailing ship. The owner of the waterfall was a famous municipal councilor, landowner, benefactor and philanthropist from Ljubuški, Zaim-beg Selimić.",
+            "Image": "img/kravice.jpg",
+            "Location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65383.75240136588!2d18.363280475103707!3d43.59444478026087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4758a43cc1c50019%3A0x3770b1cf3ea729d!2sTreskavica!5e0!3m2!1sen!2ses!4v1653763921518!5m2!1sen!2ses"
+
+        },
+        {
+            "Id": "2",
+            "Name": "Kocusa Waterfall",
+            "Description": "Koćuša is a waterfall in village Veljaci located 10 km from Ljubuški, Bosnia and Herzegovina. Its height is about 5 m. Koćuša impresses above all with its width of more than fifty meters, which together with five meters of height slopes, makes an imposing water slide.",
+            "Image": "img/kocusa.jpg",
+            "Location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65383.75240136588!2d18.363280475103707!3d43.59444478026087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4758a43cc1c50019%3A0x3770b1cf3ea729d!2sTreskavica!5e0!3m2!1sen!2ses!4v1653763921518!5m2!1sen!2ses"
+
+        },
+        {
+            "Id": "3",
+            "Name": "Skakavac Waterfall",
+            "Description": "Skakavac (Serbian Cyrillic: Скакавац) is a waterfall in Bosnia and Herzegovina. It is 12 kilometres (7.5 mi) northeast of Sarajevo, above the village of Nahorevo. At 98 metres (322 ft), it is one of the tallest waterfalls in the Balkans and traverses a vertical limestone face. The waterfall freezes in winter into a number of shapes. Part of a stream of the same name, it flows below the peak of the 1,532-metre (5,026 ft) Bukovik into Perak Creek. Vegetation around the waterfall consists of endemic and relict plants. Nearby trails are frequented by mountain bikers and hikers. In 2002, the waterfall and its surroundings were declared a natural monument by the Sarajevo Canton government.",
+            "Image": "img/skakavac.jpg",
+            "Location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65383.75240136588!2d18.363280475103707!3d43.59444478026087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4758a43cc1c50019%3A0x3770b1cf3ea729d!2sTreskavica!5e0!3m2!1sen!2ses!4v1653763921518!5m2!1sen!2ses"
+
+        },
+        {
+            "Id": "4",
+            "Name": "Strbacki buk Waterfall",
+            "Description": "Strbacki buk (Serbian Cyrillic: Штрбачки бук) waterfall is a 25 m high waterfall on the Una River (296 m altitude). It is situated in Bosnia and Herzegovina (Una-Sana Canton, city Bihać, settlement Doljani and Celije). It is part of Bosnian and Herzegovinian „Una National Park“.",
+            "Image": "img/strbacki.jpg",
+            "Location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65383.75240136588!2d18.363280475103707!3d43.59444478026087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4758a43cc1c50019%3A0x3770b1cf3ea729d!2sTreskavica!5e0!3m2!1sen!2ses!4v1653763921518!5m2!1sen!2ses"
+
+        },
+        {
+            "Id": "5",
+            "Name": "Pliva Waterfall",
+            "Description": "The Pliva Waterfall (Serbian Cyrillic: Пливски водопад) is located by the town of Jajce, in central Bosnia and Herzegovina, where the river Pliva meets the river Vrbas. The waterfall is a large tufa, also known as travertine barrier, making over 22 meters cascade on the Pliva river, in a narrow karstic zone, which follows the Pliva course, retracted into a flysh and limestone contact zone. It was 30 meters high, but after an earthquake during the Bosnian war and attacks on the power plant further up the river, the area was flooded and now the waterfall is 22 meters high.",
+            "Image": "img/pliva.jpg",
+            "Location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65383.75240136588!2d18.363280475103707!3d43.59444478026087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4758a43cc1c50019%3A0x3770b1cf3ea729d!2sTreskavica!5e0!3m2!1sen!2ses!4v1653763921518!5m2!1sen!2ses"
+
+        }
+    ],
+    "National Parks": [{
+            "Id": "1",
+            "Name": "Sutjeska National Park",
+            "Description": "The Sutjeska National Park (Serbian Cyrillic: Национални парк Сутјеска) is a national park located in Bosnia and Herzegovina. Established in 1962, it is Bosnia and Herzegovina's oldest national park. It includes the highest peak of Maglić at over 2,386 metres (7,828 ft), on the border with Montenegro. The Montenegrin part of Maglić massif in the park has also formed the Trnovačko Jezero (Trnovačko Lake). The Strict Nature Reserve 'Perućica', one of the last two remaining primeval forests in Europe, is part of the park. The park is also famous as being the location of the Battle of the Sutjeska in 1943 during World War II. It is an affiliated member of EUROPARC Federation.",
+            "Image": "img/sutjeska.jpg",
+            "Location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65383.75240136588!2d18.363280475103707!3d43.59444478026087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4758a43cc1c50019%3A0x3770b1cf3ea729d!2sTreskavica!5e0!3m2!1sen!2ses!4v1653763921518!5m2!1sen!2ses"
+
+        },
+        {
+            "Id": "2",
+            "Name": "Kozara National Park",
+            "Description": "Kozara National Park (Serbian Cyrillic: Национални парк Козара) is a national park in Bosnia and Herzegovina that was proclaimed a protected national forest in 1967 by Josip Broz Tito. It is situated between the rivers Una, Sava, Sana and Vrbas, in the Republika Srpska entity of Bosnia and Herzegovina. These 33.75 square kilometers of dense forest and hilly meadows have earned the nickname 'Green Beauty of Krajina'. Kozara is a popular hunting ground, with a large 180 square kilometers area of the park open to regulated hunting of deer, pheasants, foxes, boars, hares, and ducks. A smaller part of the park is designated for nature lovers. Walking, hiking, biking and herb picking are among the many activities in Kozara.",
+            "Image": "img/kozara.jpg",
+            "Location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65383.75240136588!2d18.363280475103707!3d43.59444478026087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4758a43cc1c50019%3A0x3770b1cf3ea729d!2sTreskavica!5e0!3m2!1sen!2ses!4v1653763921518!5m2!1sen!2ses"
+
+        },
+        {
+            "Id": "3",
+            "Name": "Una National Park",
+            "Description": "Una National Park (Serbian Cyrillic: Национални парк Уна) was established on 29 May 2008 around the rivers Upper Una River, Krka and the Unac. It is Bosnia and Herzegovina's largest national park. The main purpose of the park is to protect the unspoiled Una river and its tributaries Krka and Unac, which run through it. Protection zone of the National Park is 198 km2 (76 sq mi), and stretches on the western side from the source of the Krka river and its course to the confluence with the Una on the state border of Bosnia and Herzegovina with Croatia from where park border follows the Una and state border to the town of Martin Brod and confluence with the Unac. On the eastern side border of the park goes from the entrance of the Unac River into its canyon, few kilometers downstream from town of Drvar, and follows the Unac and its canyon all the way to the confluence with the Una in town of Martin Brod. From there park border follows the Una on the right and state border between Bosnia and Herzegovina and Croatia on the left, until it reach a small town of Ripač, few kilometers upstream from town of Bihać.",
+            "Image": "img/una.jpg",
+            "Location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65383.75240136588!2d18.363280475103707!3d43.59444478026087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4758a43cc1c50019%3A0x3770b1cf3ea729d!2sTreskavica!5e0!3m2!1sen!2ses!4v1653763921518!5m2!1sen!2ses"
+
+        }
+    ]
+}

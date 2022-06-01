@@ -1,0 +1,175 @@
+body {
+    margin: 0;
+    padding: 0;
+    /*background-color: #000;*/
+    background: url('/img/bih_maps_svg.svg');
+    /* background-size: contain;*/
+    background-repeat: no-repeat;
+    background-size: contain;
+    /*background-position: 50%, 50%, 50%, 50%;*/
+    background-position: bottom center, 50%, 50%;
+}
+
+.sadrzaj {
+    background-color: lightgrey;
+}
+
+.landmark-img {
+    height: 150px;
+    width: auto;
+    margin: auto;
+    max-width: 100%;
+    display: block;
+}
+
+.navbar {
+    overflow: hidden;
+    position: fixed;
+    font-size: large;
+    font-style: oblique;
+}
+
+header {
+    position: relative;
+    /*background-color: black;*/
+    height: 75vh;
+    min-height: 25rem;
+    width: 100%;
+    overflow: hidden;
+}
+
+header video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: 0;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+
+header .container {
+    position: relative;
+    z-index: 2;
+}
+
+header .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    /*background-color: black;*/
+    opacity: 0.8;
+    z-index: 1;
+}
+
+.arrow {
+    position: relative;
+    /*top: 85%;*/
+    left: 50%;
+    transform: translate(-85%, -50%);
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.novidiv {
+    position: absolute;
+    top: 300%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.arrow span {
+    display: block;
+    width: 30px;
+    height: 30px;
+    border-bottom: 5px solid #06A8FF;
+    border-right: 5px solid #06A8FF;
+    transform: rotate(45deg);
+    margin: -10px;
+    animation: animate 2s infinite;
+}
+
+.arrow span:nth-child(2) {
+    animation-delay: -0.2s;
+}
+
+.arrow span:nth-child(3) {
+    animation-delay: -0.4s;
+}
+
+@keyframes animate {
+    0% {
+        opacity: 0;
+        transform: rotate(45deg) translate(-20px, -20px);
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+        transform: rotate(45deg) translate(20px, 20px);
+    }
+}
+
+
+/*
+#exTab1 .ul>li .active {
+    background-color: #2196f3;
+}
+
+.active {
+    color: black;
+}*/
+
+.activan {
+    /*border: 3px solid #2196f3;
+    background-color: #2196f3;*/
+    color: black;
+}
+
+#exTab1 .tab-content {
+    /*border: 1px solid #428bca;*/
+    color: rgb(0, 0, 0);
+    /*  background-color: #a6abaf;*/
+    padding: 5px 15px;
+}
+
+#exTab1 .nav-pills>li>a {
+    border-radius: 0;
+    /*border: 1px solid #428bca;*/
+    /*background-color: #428bca;*/
+}
+
+
+/*
+#navText .navbar-nav>li>a {
+    color: white;
+}*/
+
+
+/*------------------------------------------*/
+
+
+/*------------------------------------------*/
+
+
+/* Media Query for devices withi coarse pointers and no hover functionality */
+
+
+/* This will use a fallback image instead of a video for devices that commonly do not support the HTML5 video element */
+
+@media (pointer: coarse) and (hover: none) {
+    header {
+        background: url('https://source.unsplash.com/XT5OInaElMw/1600x900') black no-repeat center center scroll;
+    }
+    header video {
+        display: none;
+    }
+}

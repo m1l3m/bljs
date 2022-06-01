@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bosnian Landmarks</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+
+
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-fixed-top">
+        <div id="navText" class="container">
+            <div class="navbar-header">
+                <a href="#" class="navbar-brand">
+                    <img src="img/logo_flag.png" width="45" alt="" class="d-inline-block align-middle mr-2">
+                    <span class=" font-weight-bold">Bosnian Landmarks</span>
+                </a>
+            </div>
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item active"><a href="index.html" class="nav-link">Home<span
+                            class="sr-only">(current)</span></a></li>
+                <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="services.html" class="nav-link">Services</a></li>
+            </ul>
+        </div>
+    </nav>
+
+
+    <header>
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/U8n8b7fT8L0?autoplay=1&mute=1&playsinline=1&loop=1&playlist=U8n8b7fT8L0" allowfullscreen></iframe>
+        </div>
+        <div class="overlay">
+            <div class="container h-100">
+                <div class="d-flex h-100 text-center align-items-center">
+                    <div class="w-100 text-white">
+                        <h1 class="display-1">WELCOME</h1>
+                        <p class="lead mb-0">Bosnia and Herzegovina landmarks</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="container" id="prikaz">
+        <div class="row">
+            <div class="arrow" id="arrows">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="container sadrzaj">
+        <div class="row">
+            <div id="exTab1" class="container">
+                <div class="row" id="tabs">
+                    <ul class="nav nav-tabs">
+                        <li class="active">
+                            <a href="#1a" class="btn btn-lg" onclick="loadList('Mountains','1a')" data-toggle="tab">Mountains</a>
+                        </li>
+                        <li><a href="#2a" class="btn btn-lg" onclick="loadList('Lakes','2a')" data-toggle="tab">Lakes</a>
+                        </li>
+                        <li><a href="#3a" class="btn btn-lg" onclick="loadList('Waterfalls','3a')" data-toggle="tab">Waterfalls</a>
+                        </li>
+                        <li><a href="#4a" class="btn btn-lg" onclick="loadList('National Parks','4a')" data-toggle="tab">National Parks</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="tab-content clearfix">
+                    <div class="tab-pane fade in active" id="1a">
+                        <div class="row" id="content">
+
+                            <div class="col-sm-3">
+                                <div class="container-fluid">
+                                    <img src="img/bjelasnica.jpg" class="img-responsive" width="100%">
+                                </div>
+                                <h3>Bjelasnica</h3>
+                                <p>Bjelašnica (Serbian Cyrillic: Бјелашница) is a mountain in central Bosnia and Herzegovina. It is to the southwest of Sarajevo, bordering Mount Igman...
+                                </p>
+                                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#bjelasnica">
+                                    More...
+                                </button>
+                                <hr>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="container-fluid">
+                                    <img src="img/jahorina.jpg" class="img-responsive" width="100%">
+                                </div>
+                                <h3>Jahorina</h3>
+                                <p>Jahorina (Serbian Cyrillic: Јахорина) is a mountain in Bosnia and Herzegovina, located on the tripoint of the municipalities of Pale, Trnovo, Republika Srpska...
+                                </p>
+                                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#jahorina">
+                                    More...
+                                </button>
+                                <hr>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="container-fluid">
+                                    <img src="img/vlasic.jpg" class="img-responsive" width="100%">
+                                </div>
+                                <h3>Vlasic</h3>
+                                <p>Vlašić (Serbian Cyrillic: Влашић) is a mountain in geographical center of Bosnia and Herzegovina. Its highest peak is Paljenik with an elevation of 1,933 m...
+                                </p>
+                                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#vlasic">
+                                    More...
+                                </button>
+                                <hr>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="tab-pane fade in" id="2a">
+                        <div class="row">
+                            <h1>Lakes</h1>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade in" id="3a">
+                        <div class="row">
+                            <h1>Waterfalls</h1>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade in" id="4a">
+                        <div class="row">
+                            <h1>National Parks</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Modal Treskavica-->
+    <div class="modal fade" id="treskavica" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 class="modal-title" id="exampleModalLongTitle">Treskavica</h2>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body" id="modalFromJSON">
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Bjelasnica-->
+    <div class="modal fade" id="bjelasnica" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 class="modal-title" id="exampleModalLongTitle">Bjelasnica</h2>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <img src="img/bjelasnica.jpg" class="img-responsive" width="100%">
+                    <br>
+                    <p>Bjelašnica (Serbian Cyrillic: Бјелашница) is a mountain in central Bosnia and Herzegovina. It is to the southwest of Sarajevo, bordering Mount Igman. Bjelašnica's tallest peak, by which the mountain group got its name, rises to an
+                        elevation of 2,067 metres (6,781 ft). Other notable peaks are Krvavac (2,061 m (6,762 ft)), Mali Vlahinja (2,055 m (6,742 ft)), and Hranisava (1,964 m (6,444 ft)). The Bjelašnica range is bordered by the Rakitnica in the south,
+                        the Neretva in the west, Mount Igman in the north-east and Mount Ivan in the north-west. Only at 20 minutes distance of Sarajevo, it is a tourist attraction for hiking and skiing. Bjelašnica was, in certain areas, the site of extensive
+                        combat during the 1992-95 Siege of Sarajevo and particular areas pose a high mine risk. There are numerous trails set up and maintained by local mountain clubs that lead to the bald peaks higher up. The mountain is also visited
+                        by mountain bikers and has become a base for some paragliders.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Jahorina-->
+    <div class="modal fade" id="jahorina" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 class="modal-title" id="exampleModalLongTitle">Jahorina</h2>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <img src="img/jahorina.jpg" class="img-responsive" width="100%">
+                    <br>
+                    <p>Jahorina (Serbian Cyrillic: Јахорина) is a mountain in Bosnia and Herzegovina, located on the tripoint of the municipalities of Pale, Trnovo, Republika Srpska and Trnovo, Federation of Bosnia and Herzegovina. Part of the Dinaric Alps,
+                        it borders Mount Trebević and its highest peak Sjenište, has a summit elevation of 1,910 metres (6,270 ft), making it the second-highest of Sarajevo's mountains, after Bjelašnica at 2,067 m (6,781 ft). The Jahorina ski resort located
+                        on the mountain, hosted the women's alpine skiing events of the 1984 Winter Olympics.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Modal Vlasic-->
+    <div class="modal fade" id="vlasic" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 class="modal-title" id="exampleModalLongTitle">Vlasic</h2>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <img src="img/vlasic.jpg" class="img-responsive" width="100%" id="vlasic">
+                    <br>
+                    <p>Vlašić (Serbian Cyrillic: Влашић) is a mountain in geographical center of Bosnia and Herzegovina. Its highest peak is Paljenik with an elevation of 1,933 m. It is famous for its pastures, cattle-breeding and cheese. It is closest to
+                        the town of Travnik, which it overlooks.The average winter temperature is 1 °C (29 °F) while the average summer temperature is 14.2 °C (60.8 °F). In the wintertime snowfall is abundant with an average snow coverage of up to 5 months
+                        in accumulation between 1.5 and 2.1 meters. The toponym is derived from vlasi, "Vlachs", a transhumant people. Academics like Mark Vego believe that the Vlachs, remnant of the Roman Empire, brought one of the trademarks of Vlašić,
+                        the Vlašić cheese, in around 1000. It is originally made from fresh sheep milk, but also cow milk, and then left to ripen for two to three months. By perfecting the recipe, the Vlachs passed on the tradition to the cattle breeders
+                        from the surrounding mountains. Today, the cheese is produced throughout the area and is regarded one of the traditions of the region. In addition to the cheese, there are two other trademarks, the Tornjak dog and Pramenka sheep.
+                        The Tornjak is believed to have existed for more than a millennia, bred to guard from wolves and bears. Its etymology is connected to Neo-Latin torni acca, "turn here".</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <br>
+    <div class="row">
+        <div class="container">
+            <div class="col-sm-5">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2943935.9479952576!2d15.429393003601634!3d43.89856221442574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x134ba215c737a9d7%3A0x6df7e20343b7e90c!2sBosnia%20and%20Herzegovina!5e0!3m2!1sen!2ses!4v1653318056328!5m2!1sen!2ses"
+                    width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+            <div class="col-sm-2"></div>
+            <div class="col-sm-4">
+                <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+                <div class="elfsight-app-acb1ff5c-e19f-4a2a-a5d5-f493b5f1f79a"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="container">
+            <iframe src="https://www.google.com/maps/d/embed?mid=1HqlkjL-naPFfi8lU7OqPpL8fG5KoQEA&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
+        </div>
+    </div>
+
+    <!-- ---------------JSON Proba------------------- 
+    <div id="myData"></div>
+    <script>
+        fetch('people.json')
+            .then(function (response) {
+                return response.json();
+            })
+            .then(function (data) {
+                appendData(data);
+            })
+            .catch(function (err) {
+                console.log('error: ' + err);
+            });
+        function appendData(data) {
+            var mainContainer = document.getElementById("myData");
+            for (var i = 0; i < data.length; i++) {
+                var div = document.createElement("div");
+                div.innerHTML = 'Name: ' + data[i].firstName + ' ' + data[i].lastName;
+                mainContainer.appendChild(div);
+            }
+        }
+    </script>-->
+    <!-- -------------------------------------------------------------------- -->
+
+</body>
+<footer>
+    <script async src="/js/javascript.js"></script>
+    <script async src="/js/attention.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="/js/reader.js"></script>
+</footer>
+
+</html>
